@@ -27,10 +27,11 @@ object **@DanzinnBr** {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-
-- 🌱 I’m currently learning  Python
-- 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me https://www.linkedin.com/in/daniel-junior-b94893115/
+<br><br>
+<p>
+<a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/daniel-junior-b94893115/)" /></a>
+</p>
 
 <!---
 DanzinnBr/DanzinnBr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
